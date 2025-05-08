@@ -28,8 +28,8 @@
 import { ref, onMounted } from 'vue';
 
 const images = [
-    '/src/assets/images/homepage/vector-truck.png',
-    '/src/assets/images/homepage/vector-truck-2.jpg',
+  new URL('@/assets/images/homepage/vector-truck.png', import.meta.url).href,
+  new URL('@/assets/images/homepage/vector-truck-2.jpg', import.meta.url).href,
 ];
 
 const currentIndex = ref(0);
