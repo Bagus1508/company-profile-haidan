@@ -29,6 +29,3 @@ gsap.to("#hero-image", {
 })
 
 const reviewContainer = document.querySelector(".review-container")
-const reviewSlideShow = new SlideShow(reviewContainer, true, 10000)
-
-window.addEventListener("resize", responsive)
