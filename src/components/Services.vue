@@ -41,7 +41,7 @@
                             <img src="/src/assets/images/homepage/tandon-air.jpg" alt="tandon-air" class="rounded-md">
                         </div>
                         <h4 class="mb-[14px] text-2xl font-semibold text-gray-800">
-                            Kuras Tandon Air / Toren – Hanya Rp700.000 per tangki.
+                            Sedot/Kuras Sepiteng – Hanya Rp700.000 per tangki.
                         </h4>
                         <p class="text-body-color text-gray-800">
                             ✔ Pengerjaan cepat dan bersih <br>

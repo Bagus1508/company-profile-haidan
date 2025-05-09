@@ -15,7 +15,7 @@
                 Kami adalah spesialis layanan sedot WC, perbaikan saluran mampet, dan pengurasan septic tank
             </span>
             <div class="mt-3 flex w-full gap-2">
-                <a href="http://wa.me/082145300566" target="_blank"
+                <a href="http://wa.me/6282145300566" target="_blank"
                     class="bg-white text-black p-3 hover:bg-black hover:text-white transition rounded-sm">
                     <i class="bi bi-telephone pr-2"></i>Hubungi Kami
                 </a>
