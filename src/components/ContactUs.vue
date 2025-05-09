@@ -95,9 +95,7 @@
             <div class="w-full flex justify-center">
                 <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.0763144741773!2d112.7594813!3d-7.345327399999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb2b21b2ce51%3A0x257993a0a86e813d!2sJl.%20Berbek%20I%20F%20No.19%2C%20Bebek%2C%20Berbek%2C%20Kec.%20Waru%2C%20Kabupaten%20Sidoarjo%2C%20Jawa%20Timur%2061256!5e0!3m2!1sid!2sid!4v1746727604313!5m2!1sid!2sid"
-                    width="500"
-                    height="300"
-                    class="mx-auto block border-0"
+                    class="mx-auto block border-0 h-[300px] lg:w-[500px] max-sm:w-[200px]"
                     allowfullscreen=""
                     loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade">

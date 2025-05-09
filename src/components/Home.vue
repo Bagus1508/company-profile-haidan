@@ -12,7 +12,7 @@
             <h1 class="text-xl font-semibold">Layanan Profesional • Cepat • Higienis</h1>
             <h2 class="text-6xl font-bold uppercase">AHLI MAMPET DAN SEDOT WC</h2>
             <span class="mt-2 text-lg text-justify">
-                Kami adalah spesialis layanan sedot WC, perbaikan saluran mampet, dan pengurasan septic tank...
+                Kami adalah spesialis layanan sedot WC, perbaikan saluran mampet, dan pengurasan septic tank
             </span>
             <div class="mt-3 flex w-full gap-2">
                 <a href="http://wa.me/082145300566" target="_blank"
@@ -28,7 +28,9 @@
 import { ref, onMounted } from 'vue';
 
 const images = [
+  new URL('@/assets/images/homepage/plumbing-service-1.jpg', import.meta.url).href,
   new URL('@/assets/images/homepage/vector-truck.png', import.meta.url).href,
+  new URL('@/assets/images/homepage/plumbing-service-2.png', import.meta.url).href,
   new URL('@/assets/images/homepage/vector-truck-2.jpg', import.meta.url).href,
 ];
 

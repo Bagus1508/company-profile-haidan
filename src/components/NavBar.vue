@@ -21,10 +21,10 @@
         <div class="collapsible-header animated-collapse flex items-center justify-between gap-4" id="collapsed-items">
             <div
                 :class="['flex h-full w-max gap-5 text-base text-white max-lg:mt-[30px] max-lg:flex-col max-lg:place-items-end max-lg:gap-5 lg:mx-auto lg:place-items-center', isScrolled ? 'text-gray-800' : 'text-white']">
-                <a :class="['header-links', isScrolled ? 'text-gray-800' : 'text-white']" href="#about_us"> Tentang Kami </a>
-                <a :class="['header-links', isScrolled ? 'text-gray-800' : 'text-white']" href="#vision_mission"> Visi Misi </a>
-                <a :class="['header-links', isScrolled ? 'text-gray-800' : 'text-white']" href="#services"> Layanan Kami </a>
-                <a :class="['header-links', isScrolled ? 'text-gray-800' : 'text-white']" href="#contact_us"> Hubungi Kami </a>
+                <a :class="['header-links', isScrolled ? 'text-gray-800 max-sm:text-white' : 'text-white']" href="#about_us"> Tentang Kami </a>
+                <a :class="['header-links', isScrolled ? 'text-gray-800 max-sm:text-white' : 'text-white']" href="#vision_mission"> Visi Misi </a>
+                <a :class="['header-links', isScrolled ? 'text-gray-800 max-sm:text-white' : 'text-white']" href="#services"> Layanan Kami </a>
+                <a :class="['header-links', isScrolled ? 'text-gray-800 max-sm:text-white' : 'text-white']" href="#contact_us"> Hubungi Kami </a>
             </div>
             <div
                 :class="['flex place-items-center gap-[20px] text-xl max-lg:w-full max-lg:place-content-center max-lg:!text-white', isScrolled ? 'text-gray-800' : 'text-white']">
