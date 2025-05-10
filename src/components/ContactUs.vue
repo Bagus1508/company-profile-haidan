@@ -14,7 +14,7 @@
             <p class="mb-9 text-xl leading-relaxed text-body-color ">
                 Punya pertanyaan atau butuh bantuan segera? <br>
                 Tim kami siap melayani Anda dengan cepat dan ramah. <br>
-                Silakan hubungi kami melalui WhatsApp, telepon, atau formulir kontak di bawah ini. <br>
+                Silakan hubungi kami melalui WhatsApp atau telepon di bawah ini. <br>
                 <br>
                 Kami melayani area Surabaya, Sidoarjo, dan Gresik – dan siap datang ke lokasi Anda sesuai permintaan.
             </p>
