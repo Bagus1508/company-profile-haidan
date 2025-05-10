@@ -65,7 +65,10 @@
                   No Telepon/Whatsapp
                 </h4>
                 <p class="text-base text-body-color ">
-                  082145300566
+                  Whatsapp : 087810816155
+                </p>
+                <p class="text-base text-body-color ">
+                  Telepon : 082145300565
                 </p>
               </div>
             </div>
