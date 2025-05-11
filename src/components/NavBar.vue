@@ -28,15 +28,15 @@
             </div>
             <div
                 :class="['flex place-items-center gap-[20px] text-xl max-lg:w-full max-lg:place-content-center max-lg:!text-white', isScrolled ? 'text-gray-800' : 'text-white']">
-                <a href="https://www.instagram.com/" target="_blank" rel="no-referrer" area-label="instagram"
+                <!-- <a href="https://www.instagram.com/" target="_blank" rel="no-referrer" area-label="instagram"
                     class="header-links transition-colors duration-[0.3s]">
                     <i class="bi bi-instagram"></i>
                 </a>
                 <a href="https://twitter.com/pauls_freeman" target="_blank" rel="no-referrer" area-label="twitter"
                     class="header-links transition-colors duration-[0.3s]">
                     <i class="bi bi-twitter"></i>
-                </a>
-                <a href="https://www.facebook.com/" target="_blank" rel="no-referrer" area-label="facebook"
+                </a> -->
+                <a href="https://www.facebook.com/share/18nbDrazZo/" target="_blank" rel="no-referrer" area-label="facebook"
                     class="header-links transition-colors duration-[0.3s]">
                     <i class="bi bi-facebook"></i>
                 </a>

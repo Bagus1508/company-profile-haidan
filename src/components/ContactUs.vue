@@ -87,7 +87,7 @@
                   Alamat Email
                 </h4>
                 <p class="text-base text-body-color ">
-                  info@yourdomain.com
+                  saluranmampetsidoarjo@gmail.com
                 </p>
               </div>
             </div>

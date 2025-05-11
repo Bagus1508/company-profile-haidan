@@ -38,7 +38,7 @@
                     <div
                         class="mb-9 rounded-[20px] bg-white p-10 shadow-2 hover:shadow-lg md:px-7 xl:px-10-2">
                         <div class="mb-8 items-center justify-center rounded-2xl bg-primary">
-                            <img src="/src/assets/images/homepage/tandon-air.jpg" alt="tandon-air" class="rounded-md">
+                            <img src="/src/assets/images/homepage/tandon-air.jpg" alt="tandon-air" class="rounded-md w-[310px] mx-auto">
                         </div>
                         <h4 class="mb-[14px] text-2xl font-semibold text-gray-800">
                             Sedot/Kuras Sepiteng – Hanya Rp700.000 per tangki.
