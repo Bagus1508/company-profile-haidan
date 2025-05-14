@@ -12,7 +12,7 @@
             <h1 class="text-xl font-semibold">Layanan Profesional • Cepat • Higienis</h1>
             <h2 class="text-6xl font-bold uppercase">AHLI MAMPET DAN SEDOT WC</h2>
             <span class="mt-2 text-lg text-justify">
-                Kami adalah spesialis layanan sedot WC, perbaikan saluran mampet, dan pengurasan septic tank
+                Kami adalah spesialis sedot WC, perbaikan saluran mampet, dan pengurasan septic tank di Surabaya, Sidoarjo, dan Gresik. Layanan cepat, bersih, dan profesional untuk kebutuhan saluran Anda.
             </span>
             <div class="mt-3 flex w-full gap-2">
                 <a href="https://wa.me/6287810816155?text=Halo%2C%20saya%20tertarik%20dengan%20layanan%20AHLI%20MAMPET%20DAN%20SEDOT%20WC."
