@@ -4,10 +4,11 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import 'aos/dist/aos.css'
 import AOS from 'aos'
+import router from './router'
+
+createApp(App).use(router).mount('#app')
 
 AOS.init()
-
-createApp(App).mount('#app')
 
 const RESPONSIVE_WIDTH = 1024
 
